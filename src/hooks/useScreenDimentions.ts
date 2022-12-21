@@ -1,0 +1,1 @@
+// wszystnie niezbędne informacje o ekranie urządzenia
